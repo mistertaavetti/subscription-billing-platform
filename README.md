@@ -81,8 +81,7 @@ An honest snapshot of where the platform's engineering stands: a marketing/trans
 
 ## Outcomes
 
-- **Client-reported** at the newsroom: **2,862 registered users, 190 active subscribers, ₦30.4M+ (~$19K) in subscription revenue, +86% year-over-year growth**.
-- The platform runs the full paid-content operation: billing, gating, community, and commercial analytics in one system.
+- **Client-reported**: the platform runs the full paid-content operation, with billing, gating, community and commercial analytics in one system.
 - 1,617 lines of API documentation and standardized error responses mean new contributors onboard against a written contract, not tribal knowledge.
 - Ecosystem context (client-reported): the newsroom's platforms collectively serve **13M+ annual views and 470K monthly active users** — FTM is the paid-conversion engine on top of that audience.
 
@@ -100,4 +99,4 @@ An honest snapshot of where the platform's engineering stands: a marketing/trans
 
 ---
 
-*Case study by David Aloba — [davidaloba.com](https://davidaloba.com) · [LinkedIn](https://linkedin.com/in/davidaloba)*
+*Case study by David Aloba. [code.davidaloba.com](https://code.davidaloba.com) · [LinkedIn](https://linkedin.com/in/mistertaavetti)*
